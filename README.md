@@ -58,3 +58,30 @@ Walmart is an American retail corporation that operates a chain of hypermarkets,
 ### Transformation and Load
 - Table creation
 - Queries to answer questions
+
+
+Project Overview
+## <font color=blue>Architecture</font>
+### Overview of data flow
+#### Data Flow Architecture
+![alt text](images/Retail_Analysis_Architecture.png)
+### Tech Stack
+* AWS EC2
+* Docker
+* Jupyter Lab
+* MySQL
+* Sqoop
+* HDFS
+* Hive
+## <font color=blue>Architecture</font>
+### Overview of data flow
+#### Data Flow Architecture
+![alt text](images/Retail_Analysis_Architecture.png)
+### Tech Stack
+* AWS EC2
+* Docker
+* Jupyter Lab
+* MySQL
+* Sqoop
+* HDFS
+* Hive
